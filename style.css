@@ -1,0 +1,26 @@
+.d-block {
+  height: 380px;
+}
+
+.card-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.cards {
+  padding: 40px;
+}
+
+.footer1 {
+  background-color: black;
+  color: white;
+}
